@@ -6,7 +6,7 @@ Jeremy has worked for AutosRUs for 10 years and has recently become the primary 
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 ***
 
 ## Tools
@@ -94,7 +94,7 @@ For Lot 1, the mean is exactly 1500, which is equal to the population mean of 15
 
 ![T-Test Lot 2](Images/Del3No2.jpg)
 
-For Lot 2, the mean is exactly 1500.2. The p-value for Lot 2 is 0.61. This is higher than the .05 significance level. We can conclude that there is sufficient evidence **not to reject** the null hypothesis. There is not a significant difference between the mean population and the mean for Lot 2. For this lot, the results are **not** statistically different from the population mean of 1,500 pounds per square inch. 
+For Lot 2, the mean is 1500.2. The p-value for Lot 2 is 0.61. This is higher than the .05 significance level. We can conclude that there is sufficient evidence **not to reject** the null hypothesis. There is not a significant difference between the mean population and the mean for Lot 2. For this lot, the results are **not** statistically different from the population mean of 1,500 pounds per square inch. 
 
 **Lot 3 T-Test**
 
